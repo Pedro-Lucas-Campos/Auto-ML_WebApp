@@ -1,0 +1,16 @@
+[project]
+name = "ml-platform"
+version = "0.1.0"
+description = "Just for study"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["streamlit",
+"pandas",
+"numpy",
+"streamlit-extras",
+"scikit-learn",
+"scikit-learn-intelex",
+"matplotlib",
+"pyarrow",
+"openpyxl",
+]
